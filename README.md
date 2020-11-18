@@ -7,4 +7,4 @@ Griggorii@gmail.com только настоящие технологии bitcoin
 
 +Python Numpy https://github.com/Griggorii/python3-numpy_1.17.4-5ubuntu4_amd64_package
 
-$ apt-cache pkgnames | grep python3
+$ apt-cache pkgnames | grep python3.8
