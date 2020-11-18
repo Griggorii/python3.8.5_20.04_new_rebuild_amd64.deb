@@ -5,4 +5,4 @@ Deb package python3.8.5 download install ubuntu 20.04: https://github.com/Griggo
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
-+PythonD https://github.com/Griggorii/python3-numpy_1.17.4-5ubuntu4_amd64_package
++Python Numpy https://github.com/Griggorii/python3-numpy_1.17.4-5ubuntu4_amd64_package
