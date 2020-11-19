@@ -8,3 +8,5 @@ Griggorii@gmail.com только настоящие технологии bitcoin
 +Python Numpy https://github.com/Griggorii/python3-numpy_1.17.4-5ubuntu4_amd64_package
 
 $ apt-cache pkgnames | grep python3.8
+
+Вообщеи данные утилиты очень понадобятся для opencv и так называемому машин лернингу некоторые игры и программы могут зависеть от opencv и без него попросту не запустятся сюда же может относиться и cuda
