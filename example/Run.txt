@@ -1,0 +1,15 @@
+Install modification python3.8.5
+
+$ chmod -R a+rwx ./example.py
+
+$ chmod -R a+rwx ./example_2.py
+
+______________________________________________________________________________
+
+Run
+
+$ ./example_2.py
+
+$ ./example.py
+
+Run alternative not terminale double mouse click example.py
